@@ -9,10 +9,16 @@
 
 ### 🌟 About Me
 
-- 🎯 Focused on building and automating **CI/CD pipelines**, **Infrastructure as Code**, and **self-healing DevOps systems**.
-- 🧩 Working across **Jenkins, Terraform, AWS, and Kubernetes (EKS)** to design reliable, repeatable deployment workflows.
-- 🔭 Currently exploring self-healing CI/CD pipelines and multi-environment cloud infrastructure.
-- 💬 Ask me about **Jenkins pipelines, Terraform, AWS (EC2/EKS/S3), SonarQube, and Tomcat deployments**.
+- 🎓 B.Tech CSE student, passionate about **DevOps** and **cloud technologies**.
+- 🚀 Focused on building **real-world, production-level projects** rather than just tutorials.
+- 🔧 Currently working hands-on with **Jenkins, AWS EC2, and Ansible** to automate deployments and understand CI/CD pipelines deeply.
+- 🛠 What I'm working on:
+  - Jenkins CI/CD pipelines (Freestyle + Pipeline)
+  - File transfer & deployment using SSH
+  - Infrastructure automation using Ansible
+  - AWS services (EC2, S3, CloudFormation)
+- 📚 I believe in **learning by doing** — I regularly build and document projects to strengthen my practical skills.
+- 🤝 Let's connect and grow together!
 - 🔗 LeetCode: **[rishu1211](https://leetcode.com/u/rishu1211/)**
 
 ---
