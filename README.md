@@ -1,5 +1,3 @@
-<img align="center" alt="banner" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="border-radius: 10px; width: 100%; max-height: 180px; object-fit: cover; background:#1e2327;">
-
 <h1 align="center">Hi 👋, I'm Rishu</h1>
 <h3 align="center">🛠️ DevOps Engineer | CI/CD · IaC · Cloud Automation</h3>
 
